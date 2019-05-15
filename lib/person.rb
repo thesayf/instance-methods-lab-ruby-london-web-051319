@@ -13,4 +13,4 @@ end
 
 end
 
-
+rori = Person.new
