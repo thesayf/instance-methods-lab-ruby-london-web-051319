@@ -1,10 +1,8 @@
-class Dog 
-  
+class Dog
+  # Class body
+ 
+  # Instance Method Definition
   def bark
-    
-    puts "bark"
-    
-  end 
-  
+    puts "Woof!"
+  end
 end
-
