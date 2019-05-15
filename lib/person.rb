@@ -14,3 +14,5 @@ end
 end
 
 rori = Person.new
+rori.talk
+rori.walk
